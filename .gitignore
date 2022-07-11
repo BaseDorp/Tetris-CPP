@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# raylib
+raylib-master
+_build
+_bin
+.vs
